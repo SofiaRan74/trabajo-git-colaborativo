@@ -5,9 +5,9 @@
 | Integrante | Rol |
 |------------|------|
 | Sofía Rangel | Líder |
-| Sofía Rangel | Documentador |
-| Sofía Rangel | Integrador |
-| Sofía Rangel | Diseñador |
+| Raúl Fraire | Documentador |
+| Daniel Nolberto | Integrador |
+| Alicia Delgadillo | Diseñador |
 
 ## Descripción
 
